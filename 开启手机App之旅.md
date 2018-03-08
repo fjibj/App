@@ -34,6 +34,7 @@ $ watchman shutdown-server
 
 在Mac或Linux环境下使用Expo，需要安装watchman,有时会出现上述异常，请参考解决
 
+
 2. 由于我安装的是"expo": "25.0.0"（最新版本）、"react": "16.2.0"、"react-native": "0.52.0", Github上很多例子用的是不同版本，因此需要调整package.json和app.json文件，最好的办法是用create-react-native-app建一个空项目专门用来比较这两个文件，以便对这两个文件做调整。
 
 
