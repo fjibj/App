@@ -18,7 +18,7 @@ Expo is a free and open source toolchain built around React Native to help you b
 
 Expo详细使用请参考官网文档： https://docs.expo.io/versions/latest/index.html
 
-参考https://github.com/ajchambeaud/video-recorder作了个视频播放和录制的App（调试中......)。
+参考 https://github.com/ajchambeaud/video-recorder 作了个视频播放和录制的App（调试中......)。
 
 在使用过程中遇到几个问题，在此备注一下：
 
