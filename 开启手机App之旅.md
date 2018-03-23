@@ -10,7 +10,22 @@
 
 二、Expo
 
-后经人介绍，有一工具可以简化RN程序编译发布过程，叫做Expo：（参考 https://www.jianshu.com/p/abfb55c60684）
+后经人介绍，有一工具可以简化RN程序编译发布过程，叫做Expo：（参考 https://www.jianshu.com/p/abfb55c60684 ）
+
+安装：
+
+$ npm install -g create-react-native-app
+
+创建项目：
+
+$ create-react-native-app my-app
+$ cd my-app/
+$ npm start
+
+上传：
+
+$ npm i -g exp
+$ exp publish
 
 Expo is a free and open source toolchain built around React Native to help you build native iOS and Android projects using JavaScript and React.
 
